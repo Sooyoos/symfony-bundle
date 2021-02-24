@@ -19,7 +19,7 @@
         "symfony/intl": "^3.4 || ^4.3 || ^5.0",
 
         "php-translation/symfony-storage": "^2.1",
-        "php-translation/extractor": "dev-master",
+        "php-translation/extractor": "dev-support-php8",
         "nyholm/nsa": "^1.1",
         "twig/twig": "^2.11 || ^3.0"
     },
